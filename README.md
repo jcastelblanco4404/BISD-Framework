@@ -43,3 +43,9 @@ Jessica Castelblanco, Ed.M.
 ## License
 
 MIT License
+## Key References
+
+- Cummins, J. (1979). Cognitive/academic language proficiency and linguistic interdependence.
+- NGSS Lead States. (2013). Next Generation Science Standards.
+- Howard, E. et al. (2018). Guiding Principles for Dual Language Education.
+- Lee, O., Quinn, H., & Valdes, G. (2013). Science and language for English language learners.
